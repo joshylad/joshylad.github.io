@@ -1,0 +1,41 @@
+html{
+    height: 100%;
+}
+body {
+    background: url('../img/dota2.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100%;
+    padding: 10% 0;
+}
+img{
+    border:2px solid black;
+}
+textarea{
+    resize: none;
+
+}
+.jumbotron{
+    background-color: rgba(255, 255, 255, 0.8);
+    vertical-align: middle;
+}
+.top-buffer {
+    margin-top:10px;
+}
+.attribute > input[type=checkbox]{
+  display:none;
+}
+input[type=checkbox] + img{
+  cursor:pointer;
+  border:2px solid transparent;
+  opacity: 0.4;
+}
+input[type=checkbox]:checked + img{
+  opacity: 1;
+}
+#hidden-div{
+    display:block;
+    height:0px;
+    width:0px;
+    overflow:hidden;
+}

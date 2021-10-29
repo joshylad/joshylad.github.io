@@ -1,0 +1,751 @@
+{"herodata": {
+    "antimage": {
+        "dname": "Anti-Mage",
+        "u": "Anti-Mage",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Escape"
+    },
+    "axe": {
+        "dname": "Axe",
+        "u": "Axe",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Initiator - Disabler - Jungler"
+    },
+    "bane": {
+        "dname": "Bane",
+        "u": "Bane",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Disabler - Nuker - Support"
+    },
+    "bloodseeker": {
+        "dname": "Bloodseeker",
+        "u": "Bloodseeker",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Jungler"
+    },
+    "crystal_maiden": {
+        "dname": "Crystal Maiden",
+        "u": "Crystal_Maiden",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Support - Disabler - Nuker - Lane Support"
+    },
+    "drow_ranger": {
+        "dname": "Drow Ranger",
+        "u": "Drow_Ranger",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry"
+    },
+    "earthshaker": {
+        "dname": "Earthshaker",
+        "u": "Earthshaker",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Initiator - Disabler - Support - Lane Support"
+    },
+    "juggernaut": {
+        "dname": "Juggernaut",
+        "u": "Juggernaut",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Pusher"
+    },
+    "mirana": {
+        "dname": "Mirana",
+        "u": "Mirana",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry - Nuker - Disabler - Escape"
+    },
+    "nevermore": {
+        "dname": "Shadow Fiend",
+        "u": "Shadow_Fiend",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry - Nuker"
+    },
+    "morphling": {
+        "dname": "Morphling",
+        "u": "Morphling",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry - Escape - Initiator - Nuker"
+    },
+    "phantom_lancer": {
+        "dname": "Phantom Lancer",
+        "u": "Phantom_Lancer",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Escape - Pusher"
+    },
+    "puck": {
+        "dname": "Puck",
+        "u": "Puck",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Initiator - Nuker - Disabler - Escape"
+    },
+    "pudge": {
+        "dname": "Pudge",
+        "u": "Pudge",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Disabler"
+    },
+    "razor": {
+        "dname": "Razor",
+        "u": "Razor",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry - Durable - Nuker"
+    },
+    "sand_king": {
+        "dname": "Sand King",
+        "u": "Sand_King",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Initiator - Disabler - Nuker"
+    },
+    "storm_spirit": {
+        "dname": "Storm Spirit",
+        "u": "Storm_Spirit",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Carry - Initiator - Escape - Disabler"
+    },
+    "sven": {
+        "dname": "Sven",
+        "u": "Sven",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Disabler - Initiator - Carry - Support"
+    },
+    "tiny": {
+        "dname": "Tiny",
+        "u": "Tiny",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Disabler - Nuker - Initiator - Durable"
+    },
+    "vengefulspirit": {
+        "dname": "Vengeful Spirit",
+        "u": "Vengeful_Spirit",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Support - Disabler - Lane Support - Initiator"
+    },
+    "windrunner": {
+        "dname": "Windranger",
+        "u": "Windranger",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Disabler - Nuker - Support - Escape"
+    },
+    "zuus": {
+        "dname": "Zeus",
+        "u": "Zeus",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Support"
+    },
+    "kunkka": {
+        "dname": "Kunkka",
+        "u": "Kunkka",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Disabler - Initiator - Carry - Durable"
+    },
+    "lina": {
+        "dname": "Lina",
+        "u": "Lina",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Disabler - Support"
+    },
+    "lich": {
+        "dname": "Lich",
+        "u": "Lich",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Support - Lane Support - Nuker"
+    },
+    "lion": {
+        "dname": "Lion",
+        "u": "Lion",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Disabler - Nuker - Lane Support - Support"
+    },
+    "shadow_shaman": {
+        "dname": "Shadow Shaman",
+        "u": "Shadow_Shaman",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Pusher - Disabler - Nuker - Support"
+    },
+    "slardar": {
+        "dname": "Slardar",
+        "u": "Slardar",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Carry - Durable - Disabler - Initiator"
+    },
+    "tidehunter": {
+        "dname": "Tidehunter",
+        "u": "Tidehunter",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Initiator - Durable - Disabler - Support"
+    },
+    "witch_doctor": {
+        "dname": "Witch Doctor",
+        "u": "Witch_Doctor",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Support - Disabler"
+    },
+    "riki": {
+        "dname": "Riki",
+        "u": "Riki",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Escape"
+    },
+    "enigma": {
+        "dname": "Enigma",
+        "u": "Enigma",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Disabler - Initiator - Jungler - Pusher"
+    },
+    "tinker": {
+        "dname": "Tinker",
+        "u": "Tinker",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Pusher"
+    },
+    "sniper": {
+        "dname": "Sniper",
+        "u": "Sniper",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry"
+    },
+    "necrolyte": {
+        "dname": "Necrophos",
+        "u": "Necrophos",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Support - Durable - Carry"
+    },
+    "warlock": {
+        "dname": "Warlock",
+        "u": "Warlock",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Initiator - Support - Lane Support - Disabler"
+    },
+    "beastmaster": {
+        "dname": "Beastmaster",
+        "u": "Beastmaster",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Initiator - Disabler - Durable"
+    },
+    "queenofpain": {
+        "dname": "Queen of Pain",
+        "u": "Queen_of_Pain",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Escape - Carry"
+    },
+    "venomancer": {
+        "dname": "Venomancer",
+        "u": "Venomancer",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Support - Nuker - Initiator - Pusher"
+    },
+    "faceless_void": {
+        "dname": "Faceless Void",
+        "u": "Faceless_Void",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Initiator - Disabler - Escape"
+    },
+    "skeleton_king": {
+        "dname": "Wraith King",
+        "u": "Wraith_King",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Carry - Disabler"
+    },
+    "death_prophet": {
+        "dname": "Death Prophet",
+        "u": "Death_Prophet",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Pusher - Nuker - Durable"
+    },
+    "phantom_assassin": {
+        "dname": "Phantom Assassin",
+        "u": "Phantom_Assassin",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Escape"
+    },
+    "pugna": {
+        "dname": "Pugna",
+        "u": "Pugna",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Pusher - Support"
+    },
+    "templar_assassin": {
+        "dname": "Templar Assassin",
+        "u": "Templar_Assassin",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry - Escape"
+    },
+    "viper": {
+        "dname": "Viper",
+        "u": "Viper",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry - Durable"
+    },
+    "luna": {
+        "dname": "Luna",
+        "u": "Luna",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry - Nuker"
+    },
+    "dragon_knight": {
+        "dname": "Dragon Knight",
+        "u": "Dragon_Knight",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Carry - Durable - Disabler - Pusher"
+    },
+    "dazzle": {
+        "dname": "Dazzle",
+        "u": "Dazzle",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Support - Lane Support"
+    },
+    "rattletrap": {
+        "dname": "Clockwerk",
+        "u": "Clockwerk",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Initiator - Durable"
+    },
+    "leshrac": {
+        "dname": "Leshrac",
+        "u": "Leshrac",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Pusher - Disabler - Support"
+    },
+    "furion": {
+        "dname": "Nature's Prophet",
+        "u": "Natures_Prophet",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Jungler - Pusher - Carry - Escape"
+    },
+    "life_stealer": {
+        "dname": "Lifestealer",
+        "u": "Lifestealer",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Carry - Durable - Jungler - Escape"
+    },
+    "dark_seer": {
+        "dname": "Dark Seer",
+        "u": "Dark_Seer",
+        "pa": "int",
+        "dac": "Melee",
+        "droles": "Initiator - Nuker - Escape"
+    },
+    "clinkz": {
+        "dname": "Clinkz",
+        "u": "Clinkz",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry - Escape"
+    },
+    "omniknight": {
+        "dname": "Omniknight",
+        "u": "Omniknight",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Lane Support - Support"
+    },
+    "enchantress": {
+        "dname": "Enchantress",
+        "u": "Enchantress",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Support - Pusher - Durable - Jungler"
+    },
+    "huskar": {
+        "dname": "Huskar",
+        "u": "Huskar",
+        "pa": "str",
+        "dac": "Ranged",
+        "droles": "Carry - Initiator - Durable"
+    },
+    "night_stalker": {
+        "dname": "Night Stalker",
+        "u": "Night_Stalker",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Initiator"
+    },
+    "broodmother": {
+        "dname": "Broodmother",
+        "u": "Broodmother",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Pusher - Carry - Escape"
+    },
+    "bounty_hunter": {
+        "dname": "Bounty Hunter",
+        "u": "Bounty_Hunter",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Escape - Nuker"
+    },
+    "weaver": {
+        "dname": "Weaver",
+        "u": "Weaver",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry - Escape"
+    },
+    "jakiro": {
+        "dname": "Jakiro",
+        "u": "Jakiro",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Pusher - Lane Support - Disabler"
+    },
+    "batrider": {
+        "dname": "Batrider",
+        "u": "Batrider",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Initiator - Disabler - Nuker - Escape"
+    },
+    "chen": {
+        "dname": "Chen",
+        "u": "Chen",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Support - Jungler - Pusher"
+    },
+    "spectre": {
+        "dname": "Spectre",
+        "u": "Spectre",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Durable"
+    },
+    "doom_bringer": {
+        "dname": "Doom",
+        "u": "Doom",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Carry - Nuker"
+    },
+    "ancient_apparition": {
+        "dname": "Ancient Apparition",
+        "u": "Ancient_Apparition",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Support - Disabler"
+    },
+    "ursa": {
+        "dname": "Ursa",
+        "u": "Ursa",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Jungler - Durable"
+    },
+    "spirit_breaker": {
+        "dname": "Spirit Breaker",
+        "u": "Spirit_Breaker",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Carry - Initiator - Disabler"
+    },
+    "gyrocopter": {
+        "dname": "Gyrocopter",
+        "u": "Gyrocopter",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Disabler - Initiator - Nuker"
+    },
+    "alchemist": {
+        "dname": "Alchemist",
+        "u": "Alchemist",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Carry - Disabler"
+    },
+    "invoker": {
+        "dname": "Invoker",
+        "u": "Invoker",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Carry - Nuker - Initiator - Escape"
+    },
+    "silencer": {
+        "dname": "Silencer",
+        "u": "Silencer",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Support - Carry - Initiator"
+    },
+    "obsidian_destroyer": {
+        "dname": "Outworld Devourer",
+        "u": "Outworld_Devourer",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Carry"
+    },
+    "lycan": {
+        "dname": "Lycan",
+        "u": "Lycan",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Carry - Jungler - Pusher - Durable"
+    },
+    "brewmaster": {
+        "dname": "Brewmaster",
+        "u": "Brewmaster",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Carry - Durable - Initiator - Pusher"
+    },
+    "shadow_demon": {
+        "dname": "Shadow Demon",
+        "u": "Shadow_Demon",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Support - Disabler - Nuker"
+    },
+    "lone_druid": {
+        "dname": "Lone Druid",
+        "u": "Lone_Druid",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry - Durable - Pusher - Jungler"
+    },
+    "chaos_knight": {
+        "dname": "Chaos Knight",
+        "u": "Chaos_Knight",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Carry - Disabler - Durable - Pusher"
+    },
+    "meepo": {
+        "dname": "Meepo",
+        "u": "Meepo",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Disabler - Initiator"
+    },
+    "treant": {
+        "dname": "Treant Protector",
+        "u": "Treant_Protector",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Initiator - Lane Support - Disabler"
+    },
+    "ogre_magi": {
+        "dname": "Ogre Magi",
+        "u": "Ogre_Magi",
+        "pa": "int",
+        "dac": "Melee",
+        "droles": "Nuker - Disabler - Durable"
+    },
+    "undying": {
+        "dname": "Undying",
+        "u": "Undying",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Pusher - Disabler - Initiator"
+    },
+    "rubick": {
+        "dname": "Rubick",
+        "u": "Rubick",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Disabler - Nuker"
+    },
+    "disruptor": {
+        "dname": "Disruptor",
+        "u": "Disruptor",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Support - Initiator - Disabler"
+    },
+    "nyx_assassin": {
+        "dname": "Nyx Assassin",
+        "u": "Nyx_Assassin",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Disabler - Nuker"
+    },
+    "naga_siren": {
+        "dname": "Naga Siren",
+        "u": "Naga_Siren",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Disabler - Pusher - Escape"
+    },
+    "keeper_of_the_light": {
+        "dname": "Keeper of the Light",
+        "u": "Keeper_of_the_Light",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Support - Lane Support"
+    },
+    "wisp": {
+        "dname": "Io",
+        "u": "Io",
+        "pa": "str",
+        "dac": "Ranged",
+        "droles": "Support - Lane Support - Nuker"
+    },
+    "visage": {
+        "dname": "Visage",
+        "u": "Visage",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Durable - Disabler"
+    },
+    "slark": {
+        "dname": "Slark",
+        "u": "Slark",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Escape"
+    },
+    "medusa": {
+        "dname": "Medusa",
+        "u": "Medusa",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry"
+    },
+    "troll_warlord": {
+        "dname": "Troll Warlord",
+        "u": "Troll_Warlord",
+        "pa": "agi",
+        "dac": "Ranged",
+        "droles": "Carry"
+    },
+    "centaur": {
+        "dname": "Centaur Warrunner",
+        "u": "Centaur_Warrunner",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Disabler - Initiator"
+    },
+    "magnataur": {
+        "dname": "Magnus",
+        "u": "Magnus",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Initiator - Disabler - Nuker - Carry"
+    },
+    "shredder": {
+        "dname": "Timbersaw",
+        "u": "Timbersaw",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Nuker - Escape"
+    },
+    "bristleback": {
+        "dname": "Bristleback",
+        "u": "Bristleback",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Durable - Initiator - Disabler"
+    },
+    "tusk": {
+        "dname": "Tusk",
+        "u": "Tusk",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Initiator - Durable"
+    },
+    "skywrath_mage": {
+        "dname": "Skywrath Mage",
+        "u": "Skywrath_Mage",
+        "pa": "int",
+        "dac": "Ranged",
+        "droles": "Nuker - Support"
+    },
+    "abaddon": {
+        "dname": "Abaddon",
+        "u": "Abaddon",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": ""
+    },
+    "elder_titan": {
+        "dname": "Elder Titan",
+        "u": "Elder_Titan",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Initiator - Durable"
+    },
+    "legion_commander": {
+        "dname": "Legion Commander",
+        "u": "Legion_Commander",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Carry - Durable"
+    },
+    "ember_spirit": {
+        "dname": "Ember Spirit",
+        "u": "Ember_Spirit",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry - Nuker"
+    },
+    "earth_spirit": {
+        "dname": "Earth Spirit",
+        "u": "Earth_Spirit",
+        "pa": "str",
+        "dac": "Melee",
+        "droles": "Carry - Nuker"
+    },
+    "terrorblade": {
+        "dname": "Terrorblade",
+        "u": "Terrorblade",
+        "pa": "agi",
+        "dac": "Melee",
+        "droles": "Carry"
+    },
+    "phoenix": {
+        "dname": "Phoenix",
+        "u": "Phoenix",
+        "pa": "str",
+        "dac": "Ranged",
+        "droles": "Initiator - Disabler - Nuker"
+    }
+}}

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Angelic Endurance</title>
+    <link rel="stylesheet" media="screen" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" media="screen" href="assets/css/main.css">
+    <script type='text/javascript' src='assets/js/jquery.min.js'></script>
+    <script type='text/javascript' src='assets/js/angelic.min.js'></script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-50033930-1', 'tracepillars.com');
+      ga('send', 'pageview');
+    </script>
+</head>
+<body>
+<div class="container">
+    <div class="jumbotron">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-9">
+                    <div class="row">
+                        <div class="col-sm-3">
+                            <img id="hero-img" src="assets/img/Heroes/abaddon_lg.jpg" title="Abaddon" class="img-rounded" width="205" height="115">
+                        </div>
+                    </div>
+                    <div class="row top-buffer">
+                        <div class="col-sm-1">
+                              <label class="attribute">
+                                  <input id="attribute1" type="checkbox" value="agi" checked="checked"/>
+                                  <img class="img-rounded" src="assets/img/agi.png">
+                              </label>
+                        </div>
+                        <div class="col-sm-1">
+                              <label class="attribute">
+                                  <input id="attribute2" type="checkbox" value="int" checked="checked"/>
+                                  <img class="img-rounded" src="assets/img/int.png">
+                              </label>
+                        </div>
+                        <div class="col-sm-1">
+                              <label class="attribute">
+                                  <input id="attribute3" type="checkbox" value="str" checked="checked"/>
+                                  <img class="img-rounded" src="assets/img/str.png">
+                              </label>
+                        </div>
+                        <div class="col-sm-offset-1 col-sm-2">
+                            <img id="boot-img" src="assets/img/Items/recipe_lg.jpg" class="img-rounded" width="85" height="64">
+                        </div>
+                        <div class="col-sm-offset-1 col-sm-2">
+                            <img id="item1-img" src="assets/img/Items/recipe_lg.jpg" class="img-rounded" width="85" height="64">
+                        </div>
+                        <div class="col-sm-offset-1 col-sm-2">
+                            <img id="item2-img" src="assets/img/Items/recipe_lg.jpg" class="img-rounded" width="85" height="64">
+                        </div>
+                    </div>
+                    <div class="row top-buffer">
+                        <div class="col-sm-3">
+                            <button id="generate" class="form-control btn btn-success" disabled>Loading Images</button>
+                        </div>
+                        <div class="col-sm-offset-1 col-sm-2">
+                            <img id="item3-img" src="assets/img/Items/recipe_lg.jpg" class="img-rounded" width="85" height="64">
+                        </div>
+                        <div class="col-sm-offset-1 col-sm-2">
+                            <img id="item4-img" src="assets/img/Items/recipe_lg.jpg" class="img-rounded" width="85" height="64">
+                        </div>
+                        <div class="col-sm-offset-1 col-sm-2">
+                            <img id="item5-img" src="assets/img/Items/recipe_lg.jpg" class="img-rounded" width="85" height="64">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <textarea id="build-output" class="form-control" rows="9" readonly></textarea>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="hidden-div">
+    <img src="assets/img/Heroes/antimage_lg.jpg">
+    <img src="assets/img/Heroes/axe_lg.jpg">
+    <img src="assets/img/Heroes/bane_lg.jpg">
+    <img src="assets/img/Heroes/bloodseeker_lg.jpg">
+    <img src="assets/img/Heroes/crystal_maiden_lg.jpg">
+    <img src="assets/img/Heroes/drow_ranger_lg.jpg">
+    <img src="assets/img/Heroes/earthshaker_lg.jpg">
+    <img src="assets/img/Heroes/juggernaut_lg.jpg">
+    <img src="assets/img/Heroes/mirana_lg.jpg">
+    <img src="assets/img/Heroes/nevermore_lg.jpg">
+    <img src="assets/img/Heroes/morphling_lg.jpg">
+    <img src="assets/img/Heroes/phantom_lancer_lg.jpg">
+    <img src="assets/img/Heroes/puck_lg.jpg">
+    <img src="assets/img/Heroes/pudge_lg.jpg">
+    <img src="assets/img/Heroes/razor_lg.jpg">
+    <img src="assets/img/Heroes/sand_king_lg.jpg">
+    <img src="assets/img/Heroes/storm_spirit_lg.jpg">
+    <img src="assets/img/Heroes/sven_lg.jpg">
+    <img src="assets/img/Heroes/tiny_lg.jpg">
+    <img src="assets/img/Heroes/vengefulspirit_lg.jpg">
+    <img src="assets/img/Heroes/windrunner_lg.jpg">
+    <img src="assets/img/Heroes/zuus_lg.jpg">
+    <img src="assets/img/Heroes/kunkka_lg.jpg">
+    <img src="assets/img/Heroes/lina_lg.jpg">
+    <img src="assets/img/Heroes/lich_lg.jpg">
+    <img src="assets/img/Heroes/lion_lg.jpg">
+    <img src="assets/img/Heroes/shadow_shaman_lg.jpg">
+    <img src="assets/img/Heroes/slardar_lg.jpg">
+    <img src="assets/img/Heroes/tidehunter_lg.jpg">
+    <img src="assets/img/Heroes/witch_doctor_lg.jpg">
+    <img src="assets/img/Heroes/riki_lg.jpg">
+    <img src="assets/img/Heroes/enigma_lg.jpg">
+    <img src="assets/img/Heroes/tinker_lg.jpg">
+    <img src="assets/img/Heroes/sniper_lg.jpg">
+    <img src="assets/img/Heroes/necrolyte_lg.jpg">
+    <img src="assets/img/Heroes/warlock_lg.jpg">
+    <img src="assets/img/Heroes/beastmaster_lg.jpg">
+    <img src="assets/img/Heroes/queenofpain_lg.jpg">
+    <img src="assets/img/Heroes/venomancer_lg.jpg">
+    <img src="assets/img/Heroes/faceless_void_lg.jpg">
+    <img src="assets/img/Heroes/skeleton_king_lg.jpg">
+    <img src="assets/img/Heroes/death_prophet_lg.jpg">
+    <img src="assets/img/Heroes/phantom_assassin_lg.jpg">
+    <img src="assets/img/Heroes/pugna_lg.jpg">
+    <img src="assets/img/Heroes/templar_assassin_lg.jpg">
+    <img src="assets/img/Heroes/viper_lg.jpg">
+    <img src="assets/img/Heroes/luna_lg.jpg">
+    <img src="assets/img/Heroes/dragon_knight_lg.jpg">
+    <img src="assets/img/Heroes/dazzle_lg.jpg">
+    <img src="assets/img/Heroes/rattletrap_lg.jpg">
+    <img src="assets/img/Heroes/leshrac_lg.jpg">
+    <img src="assets/img/Heroes/furion_lg.jpg">
+    <img src="assets/img/Heroes/life_stealer_lg.jpg">
+    <img src="assets/img/Heroes/dark_seer_lg.jpg">
+    <img src="assets/img/Heroes/clinkz_lg.jpg">
+    <img src="assets/img/Heroes/omniknight_lg.jpg">
+    <img src="assets/img/Heroes/enchantress_lg.jpg">
+    <img src="assets/img/Heroes/huskar_lg.jpg">
+    <img src="assets/img/Heroes/night_stalker_lg.jpg">
+    <img src="assets/img/Heroes/broodmother_lg.jpg">
+    <img src="assets/img/Heroes/bounty_hunter_lg.jpg">
+    <img src="assets/img/Heroes/weaver_lg.jpg">
+    <img src="assets/img/Heroes/jakiro_lg.jpg">
+    <img src="assets/img/Heroes/batrider_lg.jpg">
+    <img src="assets/img/Heroes/chen_lg.jpg">
+    <img src="assets/img/Heroes/spectre_lg.jpg">
+    <img src="assets/img/Heroes/doom_bringer_lg.jpg">
+    <img src="assets/img/Heroes/ancient_apparition_lg.jpg">
+    <img src="assets/img/Heroes/ursa_lg.jpg">
+    <img src="assets/img/Heroes/spirit_breaker_lg.jpg">
+    <img src="assets/img/Heroes/gyrocopter_lg.jpg">
+    <img src="assets/img/Heroes/alchemist_lg.jpg">
+    <img src="assets/img/Heroes/invoker_lg.jpg">
+    <img src="assets/img/Heroes/silencer_lg.jpg">
+    <img src="assets/img/Heroes/obsidian_destroyer_lg.jpg">
+    <img src="assets/img/Heroes/lycan_lg.jpg">
+    <img src="assets/img/Heroes/brewmaster_lg.jpg">
+    <img src="assets/img/Heroes/shadow_demon_lg.jpg">
+    <img src="assets/img/Heroes/lone_druid_lg.jpg">
+    <img src="assets/img/Heroes/chaos_knight_lg.jpg">
+    <img src="assets/img/Heroes/meepo_lg.jpg">
+    <img src="assets/img/Heroes/treant_lg.jpg">
+    <img src="assets/img/Heroes/ogre_magi_lg.jpg">
+    <img src="assets/img/Heroes/undying_lg.jpg">
+    <img src="assets/img/Heroes/rubick_lg.jpg">
+    <img src="assets/img/Heroes/disruptor_lg.jpg">
+    <img src="assets/img/Heroes/nyx_assassin_lg.jpg">
+    <img src="assets/img/Heroes/naga_siren_lg.jpg">
+    <img src="assets/img/Heroes/keeper_of_the_light_lg.jpg">
+    <img src="assets/img/Heroes/wisp_lg.jpg">
+    <img src="assets/img/Heroes/visage_lg.jpg">
+    <img src="assets/img/Heroes/slark_lg.jpg">
+    <img src="assets/img/Heroes/medusa_lg.jpg">
+    <img src="assets/img/Heroes/troll_warlord_lg.jpg">
+    <img src="assets/img/Heroes/centaur_lg.jpg">
+    <img src="assets/img/Heroes/magnataur_lg.jpg">
+    <img src="assets/img/Heroes/shredder_lg.jpg">
+    <img src="assets/img/Heroes/bristleback_lg.jpg">
+    <img src="assets/img/Heroes/tusk_lg.jpg">
+    <img src="assets/img/Heroes/skywrath_mage_lg.jpg">
+    <img src="assets/img/Heroes/abaddon_lg.jpg">
+    <img src="assets/img/Heroes/elder_titan_lg.jpg">
+    <img src="assets/img/Heroes/legion_commander_lg.jpg">
+    <img src="assets/img/Heroes/ember_spirit_lg.jpg">
+    <img src="assets/img/Heroes/earth_spirit_lg.jpg">
+    <img src="assets/img/Heroes/terrorblade_lg.jpg">
+    <img src="assets/img/Heroes/phoenix_lg.jpg">
+    <img src="assets/img/Boots/phase_boots_lg.jpg">
+    <img src="assets/img/Boots/travel_boots_lg.jpg">
+    <img src="assets/img/Boots/arcane_boots_lg.jpg">
+    <img src="assets/img/Boots/tranquil_boots_lg.jpg">
+    <img src="assets/img/Boots/power_treads_lg.jpg">
+    <img src="assets/img/Items/ancient_janggo_lg.jpg">
+    <img src="assets/img/Items/medallion_of_courage_lg.jpg">
+    <img src="assets/img/Items/blink_lg.jpg">
+    <img src="assets/img/Items/black_king_bar_lg.jpg">
+    <img src="assets/img/Items/diffusal_blade_2_lg.jpg">
+    <img src="assets/img/Items/butterfly_lg.jpg">
+    <img src="assets/img/Items/vanguard_lg.jpg">
+    <img src="assets/img/Items/mekansm_lg.jpg">
+    <img src="assets/img/Items/orchid_lg.jpg">
+    <img src="assets/img/Items/ultimate_scepter_lg.jpg">
+    <img src="assets/img/Items/heart_lg.jpg">
+    <img src="assets/img/Items/mjollnir_lg.jpg">
+    <img src="assets/img/Items/satanic_lg.jpg">
+    <img src="assets/img/Items/bfury_lg.jpg">
+    <img src="assets/img/Items/monkey_king_bar_lg.jpg">
+    <img src="assets/img/Items/sange_and_yasha_lg.jpg">
+    <img src="assets/img/Items/radiance_lg.jpg">
+    <img src="assets/img/Items/ethereal_blade_lg.jpg">
+    <img src="assets/img/Items/pipe_lg.jpg">
+    <img src="assets/img/Items/cyclone_lg.jpg">
+    <img src="assets/img/Items/armlet_lg.jpg">
+    <img src="assets/img/Items/invis_sword_lg.jpg">
+    <img src="assets/img/Items/rapier_lg.jpg">
+    <img src="assets/img/Items/manta_lg.jpg">
+    <img src="assets/img/Items/bloodstone_lg.jpg">
+    <img src="assets/img/Items/vladmir_lg.jpg">
+    <img src="assets/img/Items/assault_lg.jpg">
+    <img src="assets/img/Items/veil_of_discord_lg.jpg">
+    <img src="assets/img/Items/desolator_lg.jpg">
+    <img src="assets/img/Items/dagon_5_lg.jpg">
+    <img src="assets/img/Items/shivas_guard_lg.jpg">
+    <img src="assets/img/Items/heavens_halberd_lg.jpg">
+    <img src="assets/img/Items/sphere_lg.jpg">
+    <img src="assets/img/Items/rod_of_atos_lg.jpg">
+    <img src="assets/img/Items/necronomicon_3_lg.jpg">
+    <img src="assets/img/Items/abyssal_blade_lg.jpg">
+    <img src="assets/img/Items/hand_of_midas_lg.jpg">
+    <img src="assets/img/Items/skadi_lg.jpg">
+    <img src="assets/img/Items/mask_of_madness_lg.jpg">
+    <img src="assets/img/Items/greater_crit_lg.jpg">
+    <img src="assets/img/Items/sheepstick_lg.jpg">
+</div>
+</body>
+</html>

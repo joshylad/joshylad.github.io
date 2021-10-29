@@ -1,0 +1,295 @@
+[{
+    "img": "boots_lg.png",
+    "cost": 450,
+    "id": 29,
+    "qual": "component",
+    "dname": "Boots of Speed"
+},{
+    "id": 206,
+    "img": "rod_of_atos_lg.png",
+    "dname": "Rod of Atos",
+    "qual": "rare",
+    "cost": 3100
+},{
+    "id": 176,
+    "img": "ethereal_blade_lg.png",
+    "dname": "Ethereal Blade",
+    "qual": "epic",
+    "cost": 4900
+},{
+    "img": "desolator_lg.png",
+    "cost": 4100,
+    "id": 168,
+    "qual": "artifact",
+    "dname": "Desolator"
+},{
+    "img": "mjollnir_lg.png",
+    "cost": 5300,
+    "id": 158,
+    "qual": "artifact",
+    "dname": "Mjollnir"
+},{
+    "img": "butterfly_lg.png",
+    "cost": 6000,
+    "id": 139,
+    "qual": "epic",
+    "dname": "Butterfly"
+},{
+    "img": "bloodstone_lg.png",
+    "cost": 5050,
+    "id": 121,
+    "qual": "epic",
+    "dname": "Bloodstone"
+},{
+    "img": "satanic_lg.png",
+    "cost": 6150,
+    "id": 156,
+    "qual": "artifact",
+    "dname": "Satanic"
+},{
+    "img": "necronomicon_3_lg.png",
+    "cost": 2700,
+    "id": 194,
+    "qual": "rare",
+    "dname": "Necronomicon"
+},{
+    "img": "tranquil_boots_lg.png",
+    "cost": 975,
+    "id": 214,
+    "qual": "rare",
+    "dname": "Tranquil Boots"
+},{
+    "img": "power_treads_lg.png",
+    "cost": 1400,
+    "id": 63,
+    "qual": "common",
+    "dname": "Power Treads"
+},{
+    "img": "radiance_lg.png",
+    "cost": 5150,
+    "id": 137,
+    "qual": "epic",
+    "dname": "Radiance"
+},{
+    "img": "bfury_lg.png",
+    "cost": 4350,
+    "id": 145,
+    "qual": "epic",
+    "dname": "Battle Fury"
+},{
+    "img": "abyssal_blade_lg.png",
+    "cost": 6750,
+    "id": 208,
+    "qual": "epic",
+    "dname": "Abyssal Blade"
+},{
+    "img": "dagon_5_lg.png",
+    "cost": 2850,
+    "id": 202,
+    "qual": "rare",
+    "dname": "Dagon"
+},{
+    "img": "monkey_king_bar_lg.png",
+    "cost": 5400,
+    "id": 135,
+    "qual": "epic",
+    "dname": "Monkey King Bar"
+},{
+    "img": "sheepstick_lg.png",
+    "cost": 5675,
+    "id": 96,
+    "qual": "rare",
+    "dname": "Scythe of Vyse"
+},{
+    "img": "ultimate_scepter_lg.png",
+    "cost": 4200,
+    "id": 108,
+    "qual": "rare",
+    "dname": "Aghanim's Scepter"
+},{
+    "img": "skadi_lg.png",
+    "cost": 5675,
+    "id": 160,
+    "qual": "artifact",
+    "dname": "Eye of Skadi"
+},{
+    "img": "manta_lg.png",
+    "cost": 5050,
+    "id": 147,
+    "qual": "epic",
+    "dname": "Manta Style"
+},{
+    "img": "armlet_lg.png",
+    "cost": 2600,
+    "id": 151,
+    "qual": "epic",
+    "dname": "Armlet of Mordiggian"
+},{
+    "img": "vanguard_lg.png",
+    "cost": 2225,
+    "id": 125,
+    "qual": "epic",
+    "dname": "Vanguard"
+},{
+    "img": "shivas_guard_lg.png",
+    "cost": 4700,
+    "id": 119,
+    "qual": "epic",
+    "dname": "Shiva's Guard"
+},{
+    "img": "rapier_lg.png",
+    "cost": 6200,
+    "id": 133,
+    "qual": "epic",
+    "dname": "Divine Rapier"
+},{
+    "img": "pipe_lg.png",
+    "cost": 3625,
+    "id": 90,
+    "qual": "rare",
+    "dname": "Pipe of Insight"
+},{
+    "img": "heart_lg.png",
+    "cost": 5500,
+    "id": 114,
+    "qual": "epic",
+    "dname": "Heart of Tarrasque"
+},{
+    "img": "vladmir_lg.png",
+    "cost": 2050,
+    "id": 81,
+    "qual": "rare",
+    "dname": "Vladmir's Offering"
+},{
+    "img": "lesser_crit_lg.png",
+    "cost": 2150,
+    "id": 149,
+    "qual": "epic",
+    "dname": "Crystalys"
+},{
+    "img": "sange_and_yasha_lg.png",
+    "cost": 4100,
+    "id": 154,
+    "qual": "artifact",
+    "dname": "Sange and Yasha"
+},{
+    "img": "travel_boots_lg.png",
+    "cost": 2450,
+    "id": 48,
+    "qual": "common",
+    "dname": "Boots of Travel"
+},{
+    "img": "invis_sword_lg.png",
+    "cost": 3000,
+    "id": 152,
+    "qual": "epic",
+    "dname": "Shadow Blade"
+},{
+    "img": "orchid_lg.png",
+    "cost": 5025,
+    "id": 98,
+    "qual": "rare",
+    "dname": "Orchid Malevolence"
+},{
+    "img": "assault_lg.png",
+    "cost": 5250,
+    "id": 112,
+    "qual": "epic",
+    "dname": "Assault Cuirass"
+},{
+    "img": "ancient_janggo_lg.png",
+    "cost": 1875,
+    "id": 185,
+    "qual": "rare",
+    "dname": "Drum of Endurance"
+},{
+    "img": "arcane_boots_lg.png",
+    "cost": 1450,
+    "id": 180,
+    "qual": "rare",
+    "dname": "Arcane Boots"
+},{
+    "img": "phase_boots_lg.png",
+    "cost": 1350,
+    "id": 50,
+    "qual": "common",
+    "dname": "Phase Boots"
+},{
+    "img": "sphere_lg.png",
+    "cost": 5175,
+    "id": 123,
+    "qual": "epic",
+    "dname": "Linken's Sphere"
+},{
+    "img": "medallion_of_courage_lg.png",
+    "cost": 1075,
+    "id": 187,
+    "qual": "rare",
+    "dname": "Medallion of Courage"
+},{
+    "img": "veil_of_discord_lg.png",
+    "cost": 2675,
+    "id": 190,
+    "qual": "rare",
+    "dname": "Veil of Discord"
+},{
+    "img": "heavens_halberd_lg.png",
+    "cost": 3850,
+    "id": 210,
+    "qual": "artifact",
+    "dname": "Heaven's Halberd"
+},{
+    "img": "black_king_bar_lg.png",
+    "cost": 3975,
+    "id": 116,
+    "qual": "epic",
+    "dname": "Black King Bar"
+},{
+    "img": "hand_of_midas_lg.png",
+    "cost": 2050,
+    "id": 65,
+    "qual": "common",
+    "dname": "Hand of Midas"
+},{
+    "img": "greater_crit_lg.png",
+    "cost": 5550,
+    "id": 141,
+    "qual": "epic",
+    "dname": "Daedalus"
+},{
+    "img": "blink_lg.png",
+    "cost": 2150,
+    "id": 1,
+    "qual": "component",
+    "dname": "Blink Dagger"
+},{
+    "img": "diffusal_blade_2_lg.png",
+    "cost": 3300,
+    "id": 196,
+    "qual": "artifact",
+    "dname": "Diffusal Blade"
+},{
+    "img": "diffusal_blade_lg.png",
+    "cost": 3300,
+    "id": 174,
+    "qual": "artifact",
+    "dname": "Diffusal Blade"
+},{
+    "img": "cyclone_lg.png",
+    "cost": 2700,
+    "id": 100,
+    "qual": "rare",
+    "dname": "Eul's Scepter of Divinity"
+},{
+    "img": "mask_of_madness_lg.png",
+    "cost": 1900,
+    "id": 172,
+    "qual": "artifact",
+    "dname": "Mask of Madness"
+},{
+    "img": "mekansm_lg.png",
+    "cost": 2300,
+    "id": 79,
+    "qual": "rare",
+    "dname": "Mekansm"
+}]

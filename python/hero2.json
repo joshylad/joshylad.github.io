@@ -1,0 +1,644 @@
+[
+    {
+        "img": "antimage_lg.jpg",
+        "id": 1,
+        "attribute": "agi",
+        "localized_name": "Anti-Mage"
+    },
+    {
+        "img": "axe_lg.jpg",
+        "id": 2,
+        "attribute": "str",
+        "localized_name": "Axe"
+    },
+    {
+        "img": "bane_lg.jpg",
+        "id": 3,
+        "attribute": "int",
+        "localized_name": "Bane"
+    },
+    {
+        "img": "bloodseeker_lg.jpg",
+        "id": 4,
+        "attribute": "agi",
+        "localized_name": "Bloodseeker"
+    },
+    {
+        "img": "crystal_maiden_lg.jpg",
+        "id": 5,
+        "attribute": "int",
+        "localized_name": "Crystal Maiden"
+    },
+    {
+        "img": "drow_ranger_lg.jpg",
+        "id": 6,
+        "attribute": "agi",
+        "localized_name": "Drow Ranger"
+    },
+    {
+        "img": "earthshaker_lg.jpg",
+        "id": 7,
+        "attribute": "str",
+        "localized_name": "Earthshaker"
+    },
+    {
+        "img": "juggernaut_lg.jpg",
+        "id": 8,
+        "attribute": "agi",
+        "localized_name": "Juggernaut"
+    },
+    {
+        "img": "mirana_lg.jpg",
+        "id": 9,
+        "attribute": "agi",
+        "localized_name": "Mirana"
+    },
+    {
+        "img": "nevermore_lg.jpg",
+        "id": 11,
+        "attribute": "agi",
+        "localized_name": "Shadow Fiend"
+    },
+    {
+        "img": "morphling_lg.jpg",
+        "id": 10,
+        "attribute": "agi",
+        "localized_name": "Morphling"
+    },
+    {
+        "img": "phantom_lancer_lg.jpg",
+        "id": 12,
+        "attribute": "agi",
+        "localized_name": "Phantom Lancer"
+    },
+    {
+        "img": "puck_lg.jpg",
+        "id": 13,
+        "attribute": "int",
+        "localized_name": "Puck"
+    },
+    {
+        "img": "pudge_lg.jpg",
+        "id": 14,
+        "attribute": "str",
+        "localized_name": "Pudge"
+    },
+    {
+        "img": "razor_lg.jpg",
+        "id": 15,
+        "attribute": "agi",
+        "localized_name": "Razor"
+    },
+    {
+        "img": "sand_king_lg.jpg",
+        "id": 16,
+        "attribute": "str",
+        "localized_name": "Sand King"
+    },
+    {
+        "img": "storm_spirit_lg.jpg",
+        "id": 17,
+        "attribute": "int",
+        "localized_name": "Storm Spirit"
+    },
+    {
+        "img": "sven_lg.jpg",
+        "id": 18,
+        "attribute": "str",
+        "localized_name": "Sven"
+    },
+    {
+        "img": "tiny_lg.jpg",
+        "id": 19,
+        "attribute": "str",
+        "localized_name": "Tiny"
+    },
+    {
+        "img": "vengefulspirit_lg.jpg",
+        "id": 20,
+        "attribute": "agi",
+        "localized_name": "Vengeful Spirit"
+    },
+    {
+        "img": "windrunner_lg.jpg",
+        "id": 21,
+        "attribute": "int",
+        "localized_name": "Windranger"
+    },
+    {
+        "img": "zuus_lg.jpg",
+        "id": 22,
+        "attribute": "int",
+        "localized_name": "Zeus"
+    },
+    {
+        "img": "kunkka_lg.jpg",
+        "id": 23,
+        "attribute": "str",
+        "localized_name": "Kunkka"
+    },
+    {
+        "img": "lina_lg.jpg",
+        "id": 25,
+        "attribute": "int",
+        "localized_name": "Lina"
+    },
+    {
+        "img": "lich_lg.jpg",
+        "id": 31,
+        "attribute": "int",
+        "localized_name": "Lich"
+    },
+    {
+        "img": "lion_lg.jpg",
+        "id": 26,
+        "attribute": "int",
+        "localized_name": "Lion"
+    },
+    {
+        "img": "shadow_shaman_lg.jpg",
+        "id": 27,
+        "attribute": "int",
+        "localized_name": "Shadow Shaman"
+    },
+    {
+        "img": "slardar_lg.jpg",
+        "id": 28,
+        "attribute": "str",
+        "localized_name": "Slardar"
+    },
+    {
+        "img": "tidehunter_lg.jpg",
+        "id": 29,
+        "attribute": "str",
+        "localized_name": "Tidehunter"
+    },
+    {
+        "img": "witch_doctor_lg.jpg",
+        "id": 30,
+        "attribute": "int",
+        "localized_name": "Witch Doctor"
+    },
+    {
+        "img": "riki_lg.jpg",
+        "id": 32,
+        "attribute": "agi",
+        "localized_name": "Riki"
+    },
+    {
+        "img": "enigma_lg.jpg",
+        "id": 33,
+        "attribute": "int",
+        "localized_name": "Enigma"
+    },
+    {
+        "img": "tinker_lg.jpg",
+        "id": 34,
+        "attribute": "int",
+        "localized_name": "Tinker"
+    },
+    {
+        "img": "sniper_lg.jpg",
+        "id": 35,
+        "attribute": "agi",
+        "localized_name": "Sniper"
+    },
+    {
+        "img": "necrolyte_lg.jpg",
+        "id": 36,
+        "attribute": "int",
+        "localized_name": "Necrophos"
+    },
+    {
+        "img": "warlock_lg.jpg",
+        "id": 37,
+        "attribute": "int",
+        "localized_name": "Warlock"
+    },
+    {
+        "img": "beastmaster_lg.jpg",
+        "id": 38,
+        "attribute": "str",
+        "localized_name": "Beastmaster"
+    },
+    {
+        "img": "queenofpain_lg.jpg",
+        "id": 39,
+        "attribute": "int",
+        "localized_name": "Queen of Pain"
+    },
+    {
+        "img": "venomancer_lg.jpg",
+        "id": 40,
+        "attribute": "agi",
+        "localized_name": "Venomancer"
+    },
+    {
+        "img": "faceless_void_lg.jpg",
+        "id": 41,
+        "attribute": "agi",
+        "localized_name": "Faceless Void"
+    },
+    {
+        "img": "skeleton_king_lg.jpg",
+        "id": 42,
+        "attribute": "str",
+        "localized_name": "Wraith King"
+    },
+    {
+        "img": "death_prophet_lg.jpg",
+        "id": 43,
+        "attribute": "int",
+        "localized_name": "Death Prophet"
+    },
+    {
+        "img": "phantom_assassin_lg.jpg",
+        "id": 44,
+        "attribute": "agi",
+        "localized_name": "Phantom Assassin"
+    },
+    {
+        "img": "pugna_lg.jpg",
+        "id": 45,
+        "attribute": "int",
+        "localized_name": "Pugna"
+    },
+    {
+        "img": "templar_assassin_lg.jpg",
+        "id": 46,
+        "attribute": "agi",
+        "localized_name": "Templar Assassin"
+    },
+    {
+        "img": "viper_lg.jpg",
+        "id": 47,
+        "attribute": "agi",
+        "localized_name": "Viper"
+    },
+    {
+        "img": "luna_lg.jpg",
+        "id": 48,
+        "attribute": "agi",
+        "localized_name": "Luna"
+    },
+    {
+        "img": "dragon_knight_lg.jpg",
+        "id": 49,
+        "attribute": "str",
+        "localized_name": "Dragon Knight"
+    },
+    {
+        "img": "dazzle_lg.jpg",
+        "id": 50,
+        "attribute": "int",
+        "localized_name": "Dazzle"
+    },
+    {
+        "img": "rattletrap_lg.jpg",
+        "id": 51,
+        "attribute": "str",
+        "localized_name": "Clockwerk"
+    },
+    {
+        "img": "leshrac_lg.jpg",
+        "id": 52,
+        "attribute": "int",
+        "localized_name": "Leshrac"
+    },
+    {
+        "img": "furion_lg.jpg",
+        "id": 53,
+        "attribute": "int",
+        "localized_name": "Nature's Prophet"
+    },
+    {
+        "img": "life_stealer_lg.jpg",
+        "id": 54,
+        "attribute": "str",
+        "localized_name": "Lifestealer"
+    },
+    {
+        "img": "dark_seer_lg.jpg",
+        "id": 55,
+        "attribute": "int",
+        "localized_name": "Dark Seer"
+    },
+    {
+        "img": "clinkz_lg.jpg",
+        "id": 56,
+        "attribute": "agi",
+        "localized_name": "Clinkz"
+    },
+    {
+        "img": "omniknight_lg.jpg",
+        "id": 57,
+        "attribute": "str",
+        "localized_name": "Omniknight"
+    },
+    {
+        "img": "enchantress_lg.jpg",
+        "id": 58,
+        "attribute": "int",
+        "localized_name": "Enchantress"
+    },
+    {
+        "img": "huskar_lg.jpg",
+        "id": 59,
+        "attribute": "str",
+        "localized_name": "Huskar"
+    },
+    {
+        "img": "night_stalker_lg.jpg",
+        "id": 60,
+        "attribute": "str",
+        "localized_name": "Night Stalker"
+    },
+    {
+        "img": "broodmother_lg.jpg",
+        "id": 61,
+        "attribute": "agi",
+        "localized_name": "Broodmother"
+    },
+    {
+        "img": "bounty_hunter_lg.jpg",
+        "id": 62,
+        "attribute": "agi",
+        "localized_name": "Bounty Hunter"
+    },
+    {
+        "img": "weaver_lg.jpg",
+        "id": 63,
+        "attribute": "agi",
+        "localized_name": "Weaver"
+    },
+    {
+        "img": "jakiro_lg.jpg",
+        "id": 64,
+        "attribute": "int",
+        "localized_name": "Jakiro"
+    },
+    {
+        "img": "batrider_lg.jpg",
+        "id": 65,
+        "attribute": "int",
+        "localized_name": "Batrider"
+    },
+    {
+        "img": "chen_lg.jpg",
+        "id": 66,
+        "attribute": "int",
+        "localized_name": "Chen"
+    },
+    {
+        "img": "spectre_lg.jpg",
+        "id": 67,
+        "attribute": "agi",
+        "localized_name": "Spectre"
+    },
+    {
+        "img": "doom_bringer_lg.jpg",
+        "id": 69,
+        "attribute": "str",
+        "localized_name": "Doom"
+    },
+    {
+        "img": "ancient_apparition_lg.jpg",
+        "id": 68,
+        "attribute": "int",
+        "localized_name": "Ancient Apparition"
+    },
+    {
+        "img": "ursa_lg.jpg",
+        "id": 70,
+        "attribute": "agi",
+        "localized_name": "Ursa"
+    },
+    {
+        "img": "spirit_breaker_lg.jpg",
+        "id": 71,
+        "attribute": "str",
+        "localized_name": "Spirit Breaker"
+    },
+    {
+        "img": "gyrocopter_lg.jpg",
+        "id": 72,
+        "attribute": "agi",
+        "localized_name": "Gyrocopter"
+    },
+    {
+        "img": "alchemist_lg.jpg",
+        "id": 73,
+        "attribute": "str",
+        "localized_name": "Alchemist"
+    },
+    {
+        "img": "invoker_lg.jpg",
+        "id": 74,
+        "attribute": "int",
+        "localized_name": "Invoker"
+    },
+    {
+        "img": "silencer_lg.jpg",
+        "id": 75,
+        "attribute": "int",
+        "localized_name": "Silencer"
+    },
+    {
+        "img": "obsidian_destroyer_lg.jpg",
+        "id": 76,
+        "attribute": "int",
+        "localized_name": "Outworld Devourer"
+    },
+    {
+        "img": "lycan_lg.jpg",
+        "id": 77,
+        "attribute": "str",
+        "localized_name": "Lycan"
+    },
+    {
+        "img": "brewmaster_lg.jpg",
+        "id": 78,
+        "attribute": "str",
+        "localized_name": "Brewmaster"
+    },
+    {
+        "img": "shadow_demon_lg.jpg",
+        "id": 79,
+        "attribute": "int",
+        "localized_name": "Shadow Demon"
+    },
+    {
+        "img": "lone_druid_lg.jpg",
+        "id": 80,
+        "attribute": "agi",
+        "localized_name": "Lone Druid"
+    },
+    {
+        "img": "chaos_knight_lg.jpg",
+        "id": 81,
+        "attribute": "str",
+        "localized_name": "Chaos Knight"
+    },
+    {
+        "img": "meepo_lg.jpg",
+        "id": 82,
+        "attribute": "agi",
+        "localized_name": "Meepo"
+    },
+    {
+        "img": "treant_lg.jpg",
+        "id": 83,
+        "attribute": "str",
+        "localized_name": "Treant Protector"
+    },
+    {
+        "img": "ogre_magi_lg.jpg",
+        "id": 84,
+        "attribute": "int",
+        "localized_name": "Ogre Magi"
+    },
+    {
+        "img": "undying_lg.jpg",
+        "id": 85,
+        "attribute": "str",
+        "localized_name": "Undying"
+    },
+    {
+        "img": "rubick_lg.jpg",
+        "id": 86,
+        "attribute": "int",
+        "localized_name": "Rubick"
+    },
+    {
+        "img": "disruptor_lg.jpg",
+        "id": 87,
+        "attribute": "int",
+        "localized_name": "Disruptor"
+    },
+    {
+        "img": "nyx_assassin_lg.jpg",
+        "id": 88,
+        "attribute": "agi",
+        "localized_name": "Nyx Assassin"
+    },
+    {
+        "img": "naga_siren_lg.jpg",
+        "id": 89,
+        "attribute": "agi",
+        "localized_name": "Naga Siren"
+    },
+    {
+        "img": "keeper_of_the_light_lg.jpg",
+        "id": 90,
+        "attribute": "int",
+        "localized_name": "Keeper of the Light"
+    },
+    {
+        "img": "wisp_lg.jpg",
+        "id": 91,
+        "attribute": "str",
+        "localized_name": "Io"
+    },
+    {
+        "img": "visage_lg.jpg",
+        "id": 92,
+        "attribute": "int",
+        "localized_name": "Visage"
+    },
+    {
+        "img": "slark_lg.jpg",
+        "id": 93,
+        "attribute": "agi",
+        "localized_name": "Slark"
+    },
+    {
+        "img": "medusa_lg.jpg",
+        "id": 94,
+        "attribute": "agi",
+        "localized_name": "Medusa"
+    },
+    {
+        "img": "troll_warlord_lg.jpg",
+        "id": 95,
+        "attribute": "agi",
+        "localized_name": "Troll Warlord"
+    },
+    {
+        "img": "centaur_lg.jpg",
+        "id": 96,
+        "attribute": "str",
+        "localized_name": "Centaur Warrunner"
+    },
+    {
+        "img": "magnataur_lg.jpg",
+        "id": 97,
+        "attribute": "str",
+        "localized_name": "Magnus"
+    },
+    {
+        "img": "shredder_lg.jpg",
+        "id": 98,
+        "attribute": "str",
+        "localized_name": "Timbersaw"
+    },
+    {
+        "img": "bristleback_lg.jpg",
+        "id": 99,
+        "attribute": "str",
+        "localized_name": "Bristleback"
+    },
+    {
+        "img": "tusk_lg.jpg",
+        "id": 100,
+        "attribute": "str",
+        "localized_name": "Tusk"
+    },
+    {
+        "img": "skywrath_mage_lg.jpg",
+        "id": 101,
+        "attribute": "int",
+        "localized_name": "Skywrath Mage"
+    },
+    {
+        "img": "abaddon_lg.jpg",
+        "id": 102,
+        "attribute": "str",
+        "localized_name": "Abaddon"
+    },
+    {
+        "img": "elder_titan_lg.jpg",
+        "id": 103,
+        "attribute": "str",
+        "localized_name": "Elder Titan"
+    },
+    {
+        "img": "legion_commander_lg.jpg",
+        "id": 104,
+        "attribute": "str",
+        "localized_name": "Legion Commander"
+    },
+    {
+        "img": "ember_spirit_lg.jpg",
+        "id": 106,
+        "attribute": "agi",
+        "localized_name": "Ember Spirit"
+    },
+    {
+        "img": "earth_spirit_lg.jpg",
+        "id": 107,
+        "attribute": "str",
+        "localized_name": "Earth Spirit"
+    },
+    {
+        "img": "terrorblade_lg.jpg",
+        "id": 109,
+        "attribute": "agi",
+        "localized_name": "Terrorblade"
+    },
+    {
+        "img": "phoenix_lg.jpg",
+        "id": 110,
+        "attribute": "str",
+        "localized_name": "Phoenix"
+    }
+]
