@@ -942,7 +942,7 @@ $(window).load(function () {
                 "localized_name": "Echo Sabre"
             },
             {
-                "img": "nullifier_lg.jpg.jpg",
+                "img": "nullifier_lg.jpg",
                 "cost": 4700,
                 "id": 234,
                 "qual": "rare",
