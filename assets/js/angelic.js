@@ -985,6 +985,13 @@ $(window).load(function () {
                 "qual": "rare",
                 "localized_name": "Arcane Boots"
             },
+			{
+                "img": "guardian_boots_lg.jpg",
+                "cost": 5100,
+                "id": 215 ,
+                "qual": "rare",
+                "localized_name": "Guardian Greaves"
+            },
             {
                 "img": "phase_boots_lg.jpg",
                 "cost": 1350,
