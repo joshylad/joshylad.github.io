@@ -972,18 +972,11 @@ $(window).load(function () {
                 "localized_name": "Power Treads"
             },
             {
-                "img": "travel_boots_lg.jpg",
-                "cost": 2450,
-                "id": 48,
-                "qual": "common",
-                "localized_name": "Boots of Travel"
-            },
-            {
-                "img": "arcane_boots_lg.jpg",
-                "cost": 1450,
-                "id": 180,
-                "qual": "rare",
-                "localized_name": "Arcane Boots"
+				"img": "travel2_boots_lg.jpg",
+				"cost": 4500,
+				"id": 216,
+				"qual": "common",
+				"dname": "Boots of Travel 2"
             },
 			{
                 "img": "guardian_boots_lg.jpg",

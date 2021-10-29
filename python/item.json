@@ -173,12 +173,6 @@
     "qual": "artifact",
     "dname": "Sange and Yasha"
 },{
-    "img": "travel_boots_lg.png",
-    "cost": 2450,
-    "id": 48,
-    "qual": "common",
-    "dname": "Boots of Travel"
-},{
 	"img": "travel2_boots_lg.jpg",
     "cost": 4500,
     "id": 216,
@@ -208,12 +202,6 @@
     "id": 185,
     "qual": "rare",
     "dname": "Drum of Endurance"
-},{
-    "img": "arcane_boots_lg.png",
-    "cost": 1450,
-    "id": 180,
-    "qual": "rare",
-    "dname": "Arcane Boots"
 },{
     "img": "guardian_boots_lg.jpg",
     "cost": 5100,
