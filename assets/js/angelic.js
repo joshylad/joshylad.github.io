@@ -669,13 +669,6 @@ $(window).load(function () {
         ];
         var items = [
             {
-                "id": 206,
-                "img": "rod_of_atos_lg.jpg",
-                "localized_name": "Rod of Atos",
-                "qual": "rare",
-                "cost": 3100
-            },
-            {
                 "id": 176,
                 "img": "ethereal_blade_lg.jpg",
                 "localized_name": "Ethereal Blade",
@@ -844,6 +837,76 @@ $(window).load(function () {
                 "localized_name": "Falcon Blade"
             },
             {
+                "img": "refresher_lg.jpg",
+                "cost": 5000,
+                "id": 218,
+                "qual": "rare",
+                "localized_name": "Refresher Orb"
+            },
+            {
+                "img": "octarine_core_lg.jpg",
+                "cost": 5275,
+                "id": 219,
+                "qual": "rare",
+                "localized_name": "Octarine Core"
+            },
+            {
+                "img": "gleipnir_lg.jpg",
+                "cost": 6150,
+                "id": 220,
+                "qual": "rare",
+                "localized_name": "Gleipnir"
+            },
+            {
+                "img": "wind_waker_lg.jpg",
+                "cost": 6825,
+                "id": 221,
+                "qual": "rare",
+                "localized_name": "Wind Waker"
+            },
+            {
+                "img": "solar_crest_lg.jpg",
+                "cost": 2625,
+                "id": 222,
+                "qual": "rare",
+                "localized_name": "Solar Crest"
+            },
+            {
+                "img": "witch_blade_lg.jpg",
+                "cost": 2600,
+                "id": 223,
+                "qual": "rare",
+                "localized_name": "Witch Blade"
+            },
+            {
+                "img": "glimmer_cape_lg.jpg",
+                "cost": 1950,
+                "id": 224,
+                "qual": "rare",
+                "localized_name": "Glimmer Cape"
+            },
+            {
+                "img": "spirit_vessel_lg.jpg",
+                "cost": 2840,
+                "id": 225,
+                "qual": "rare",
+                "localized_name": "Spirit Vessel"
+            },
+            {
+                "img": "holy_locket_lg.jpg",
+                "cost": 2400,
+                "id": 226,
+                "qual": "rare",
+                "localized_name": "Holy Locket"
+            },
+            {
+                "img": "orb_of_corrosion_lg.jpg",
+                "cost": 925,
+                "id": 227,
+                "qual": "rare",
+                "localized_name": "Orb Of Corrosion"
+            },
+            {
                 "img": "sange_and_yasha_lg.jpg",
                 "cost": 4100,
                 "id": 154,
@@ -884,13 +947,6 @@ $(window).load(function () {
                 "id": 123,
                 "qual": "epic",
                 "localized_name": "Linken's Sphere"
-            },
-            {
-                "img": "medallion_of_courage_lg.jpg",
-                "cost": 1075,
-                "id": 187,
-                "qual": "rare",
-                "localized_name": "Medallion of Courage"
             },
             {
                 "img": "veil_of_discord_lg.jpg",
@@ -940,13 +996,6 @@ $(window).load(function () {
                 "id": 196,
                 "qual": "artifact",
                 "localized_name": "Diffusal Blade"
-            },
-            {
-                "img": "cyclone_lg.jpg",
-                "cost": 2700,
-                "id": 100,
-                "qual": "rare",
-                "localized_name": "Eul's Scepter of Divinity"
             },
             {
                 "img": "mask_of_madness_lg.jpg",
