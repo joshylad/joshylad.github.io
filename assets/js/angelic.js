@@ -900,6 +900,125 @@ $(window).load(function () {
                 "localized_name": "Orb Of Corrosion"
             },
             {
+                "img": "yasha_and_kaya_lg.jpg",
+                "cost": 4100,
+                "id": 228,
+                "qual": "rare",
+                "localized_name": "Yasha And Kaya"
+            },
+            {
+                "img": "arcane_blink_lg.jpg",
+                "cost": 6800,
+                "id": 229,
+                "qual": "rare",
+                "localized_name": "Arcane Blink"
+            },
+            {
+                "img": "overwhelming_blink_lg.jpg",
+                "cost": 6800,
+                "id": 230,
+                "qual": "rare",
+                "localized_name": "Overwhelming Blink"
+            },
+            {
+                "img": "swift_blink_lg.jpg",
+                "cost": 6800,
+                "id": 231,
+                "qual": "rare",
+                "localized_name": "Swift Blink"
+            },
+            {
+                "img": "sange_and_kaya_lg.jpg",
+                "cost": 4100,
+                "id": 232,
+                "qual": "rare",
+                "localized_name": "Kaya And Sange"
+            },
+            {
+                "img": "echo_sabre_lg.jpg",
+                "cost": 2500,
+                "id": 233,
+                "qual": "rare",
+                "localized_name": "Echo Sabre"
+            },
+            {
+                "img": "nullifier_lg.jpg.jpg",
+                "cost": 4700,
+                "id": 234,
+                "qual": "rare",
+                "localized_name": "Nullifier"
+            },
+            {
+                "img": "silver_edge_lg.jpg",
+                "cost": 5450,
+                "id": 235,
+                "qual": "rare",
+                "localized_name": "Silver Edge"
+            },
+            {
+                "img": "bloodthorn_lg.jpg",
+                "cost": 6275,
+                "id": 236,
+                "qual": "rare",
+                "localized_name": "Bloodthorn"
+            },
+            {
+                "img": "mage_slayer_lg.jpg",
+                "cost": 2400,
+                "id": 237,
+                "qual": "rare",
+                "localized_name": "Mage Slayer"
+            },
+            {
+                "img": "crimson_guard_lg.jpg",
+                "cost": 3575,
+                "id": 238,
+                "qual": "rare",
+                "localized_name": "Crimson Guard"
+            },
+            {
+                "img": "lotus_orb_lg.jpg",
+                "cost": 3850,
+                "id": 239,
+                "qual": "rare",
+                "localized_name": "Lotus Orb"
+            },
+            {
+                "img": "hurricane_pike_lg.jpg",
+                "cost": 4450,
+                "id": 240,
+                "qual": "rare",
+                "localized_name": "Hurricane Pike"
+            },
+            {
+                "img": "meteor_hammer_lg.jpg",
+                "cost": 2350,
+                "id": 241,
+                "qual": "rare",
+                "localized_name": "Meteor Hammer"
+            },
+            {
+                "img": "eternal_shroud_lg.jpg",
+                "cost": 3300,
+                "id": 242,
+                "qual": "rare",
+                "localized_name": "Eternal Shroud"
+            },
+            {
+                "img": "blade_mail_lg.jpg",
+                "cost": 2125,
+                "id": 243,
+                "qual": "rare",
+                "localized_name": "Blade Mail"
+            },
+            {
+                "img": "aeon_disk_lg.jpg",
+                "cost": 3000,
+                "id": 244,
+                "qual": "rare",
+                "localized_name": "Aeon Disk"
+            },
+            {
                 "img": "sange_and_yasha_lg.jpg",
                 "cost": 4100,
                 "id": 154,
