@@ -830,11 +830,11 @@ $(window).load(function () {
                 "localized_name": "Heart of Tarrasque"
             },
             {
-                "img": "vladmir_lg.jpg",
-                "cost": 2050,
+                "img": "helm_of_overlord.jpg",
+                "cost": 6325,
                 "id": 81,
                 "qual": "rare",
-                "localized_name": "Vladmir's Offering"
+                "localized_name": "Helm Of the Overlord"
             },
             {
                 "img": "sange_and_yasha_lg.jpg",
