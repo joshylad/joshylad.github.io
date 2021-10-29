@@ -837,6 +837,13 @@ $(window).load(function () {
                 "localized_name": "Helm Of the Overlord"
             },
             {
+                "img": "falcon_blade_lg.jpg",
+                "cost": 1125,
+                "id": 217,
+                "qual": "rare",
+                "localized_name": "Falcon Blade"
+            },
+            {
                 "img": "sange_and_yasha_lg.jpg",
                 "cost": 4100,
                 "id": 154,
