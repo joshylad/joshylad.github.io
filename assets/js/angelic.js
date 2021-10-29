@@ -788,13 +788,6 @@ $(window).load(function () {
                 "localized_name": "Armlet of Mordiggian"
             },
             {
-                "img": "vanguard_lg.jpg",
-                "cost": 2225,
-                "id": 125,
-                "qual": "epic",
-                "localized_name": "Vanguard"
-            },
-            {
                 "img": "shivas_guard_lg.jpg",
                 "cost": 4700,
                 "id": 119,
@@ -914,20 +907,6 @@ $(window).load(function () {
                 "localized_name": "Sange and Yasha"
             },
             {
-                "img": "invis_sword_lg.jpg",
-                "cost": 3000,
-                "id": 152,
-                "qual": "epic",
-                "localized_name": "Shadow Blade"
-            },
-            {
-                "img": "orchid_lg.jpg",
-                "cost": 5025,
-                "id": 98,
-                "qual": "rare",
-                "localized_name": "Orchid Malevolence"
-            },
-            {
                 "img": "assault_lg.jpg",
                 "cost": 5250,
                 "id": 112,
@@ -982,13 +961,6 @@ $(window).load(function () {
                 "id": 141,
                 "qual": "epic",
                 "localized_name": "Daedalus"
-            },
-            {
-                "img": "blink_lg.jpg",
-                "cost": 2150,
-                "id": 1,
-                "qual": "component",
-                "localized_name": "Blink Dagger"
             },
             {
                 "img": "diffusal_blade_2_lg.jpg",

@@ -119,12 +119,6 @@
     "qual": "epic",
     "dname": "Armlet of Mordiggian"
 },{
-    "img": "vanguard_lg.png",
-    "cost": 2225,
-    "id": 125,
-    "qual": "epic",
-    "dname": "Vanguard"
-},{
     "img": "shivas_guard_lg.png",
     "cost": 4700,
     "id": 119,
@@ -239,18 +233,6 @@
     "qual": "common",
     "dname": "Boots of Travel 2"
 },{
-    "img": "invis_sword_lg.png",
-    "cost": 3000,
-    "id": 152,
-    "qual": "epic",
-    "dname": "Shadow Blade"
-},{
-    "img": "orchid_lg.png",
-    "cost": 5025,
-    "id": 98,
-    "qual": "rare",
-    "dname": "Orchid Malevolence"
-},{
     "img": "assault_lg.png",
     "cost": 5250,
     "id": 112,
@@ -310,12 +292,6 @@
     "id": 141,
     "qual": "epic",
     "dname": "Daedalus"
-},{
-    "img": "blink_lg.png",
-    "cost": 2150,
-    "id": 1,
-    "qual": "component",
-    "dname": "Blink Dagger"
 },{
     "img": "diffusal_blade_2_lg.png",
     "cost": 3300,
