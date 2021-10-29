@@ -179,6 +179,12 @@
     "qual": "common",
     "dname": "Boots of Travel"
 },{
+	"img": "travel2_boots_lg.jpg",
+    "cost": 4500,
+    "id": 216,
+    "qual": "common",
+    "dname": "Boots of Travel 2"
+},{
     "img": "invis_sword_lg.png",
     "cost": 3000,
     "id": 152,
